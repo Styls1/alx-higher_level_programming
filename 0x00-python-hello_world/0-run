@@ -1,2 +1,2 @@
 #!/bin/bash
-export PYFILE=styls.py
+python3 $PYFILE
